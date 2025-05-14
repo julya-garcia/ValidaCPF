@@ -1,6 +1,6 @@
 ValidaCPF 🧾
 
-Este repositório contém um site simples para validar números de CPF (Cadastro de Pessoas Físicas) no Brasil 🇧🇷. O site permite que o usuário insira um número de CPF e verifique se ele é válido ou não, com base nas regras de cálculo do CPF.
+Este repositório contém um site simples para validar números de CPF . O site permite que o usuário insira um número de CPF e verifique se ele é válido ou não, com base nas regras de cálculo do CPF.
 
 Funcionalidades ✨
 Validação de CPF ✅: O site valida a entrada do CPF, verificando se ele é um número válido de acordo com os cálculos dos dois dígitos verificadores do CPF.
